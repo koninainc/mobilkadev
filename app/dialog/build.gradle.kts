@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.mirea.sernyaevao.dialog"
+    namespace = "ru.mirea.sasov.dialog"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "ru.mirea.sernyaevao.dialog"
+        applicationId = "ru.mirea.sasov.dialog"
         minSdk = 26
         targetSdk = 35
         versionCode = 1

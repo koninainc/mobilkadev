@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.mirea.sernyaevao.notificationapp"
+    namespace = "ru.mirea.sasov.notificationapp"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "ru.mirea.sernyaevao.notificationapp"
+        applicationId = "ru.mirea.sasov.notificationapp"
         minSdk = 26
         targetSdk = 35
         versionCode = 1

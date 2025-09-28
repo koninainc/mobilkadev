@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.mirea.sernyaevao.activitylifecycle"
+    namespace = "ru.mirea.sasov.activitylifecycle"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "ru.mirea.sernyaevao.activitylifecycle"
+        applicationId = "ru.mirea.sasov.activitylifecycle"
         minSdk = 26
         targetSdk = 35
         versionCode = 1

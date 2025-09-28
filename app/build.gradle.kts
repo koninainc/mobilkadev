@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.mirea.sernyaevao.lesson2"
+    namespace = "ru.mirea.sasov.lesson2"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "ru.mirea.sernyaevao.lesson2"
+        applicationId = "ru.mirea.sasov.lesson2"
         minSdk = 26
         targetSdk = 35
         versionCode = 1

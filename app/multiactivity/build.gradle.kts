@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.mirea.sernyaevao.multiactivity"
+    namespace = "ru.mirea.sasov.multiactivity"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "ru.mirea.sernyaevao.multiactivity"
+        applicationId = "ru.mirea.sasov.multiactivity"
         minSdk = 26
         targetSdk = 35
         versionCode = 1
