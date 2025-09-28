@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
         binding = ActivityMainBinding.inflate(getLayoutInflater());
         setContentView(binding.getRoot());
 
-        binding.editTextMirea.setText("Мой номер по списку №26");
+        binding.editTextMirea.setText("Мой номер по списку №11");
         binding.buttonMirea.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
