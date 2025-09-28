@@ -13,6 +13,8 @@ import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
+import ru.mirea.sasov.toastapp.R;
+
 public class ToastApp extends AppCompatActivity {
 
     private EditText editText;
@@ -36,7 +38,7 @@ public class ToastApp extends AppCompatActivity {
             @Override
             public void onTextChanged(CharSequence s, int start, int before, int count) {
                 int length = s.length();
-                Toast.makeText(ToastApp.this, "СТУДЕНТ № 26 ГРУППА БИСО-01-20 Количество символов - " + length, Toast.LENGTH_LONG).show();
+                Toast.makeText(ToastApp.this, "СТУДЕНТ № 11 ГРУППА БИСО-03-20 Количество символов - " + length, Toast.LENGTH_LONG).show();
 
             }
             @Override
